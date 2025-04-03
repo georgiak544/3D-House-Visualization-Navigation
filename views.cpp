@@ -1,8 +1,3 @@
-/*********************************
- * Ergasia 3 – 14/1/2025
- * Kostopoulou Georgia - 03449
- * Tsitoni Eleni – 03447
- *********************************/
 
 #include <GL/glut.h>
 #include <cmath>
