@@ -1,8 +1,4 @@
-/*********************************
- * Ergasia 3 – 14/1/2025
- * Kostopoulou Georgia - 03449
- * Tsitoni Eleni – 03447
- *********************************/
+
 
 #ifndef HOUSE_H
 #define HOUSE_H
