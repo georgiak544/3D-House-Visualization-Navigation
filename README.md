@@ -19,7 +19,7 @@ An interactive 3D house simulation created in C++ using OpenGL and GLUT. The pro
 
 ## 🧠 Technologies Used
 
-- **C++11**
+- **C++**
 - **OpenGL / GLUT**
 - **Bezier Surface Generation**
 - **Keyboard Interaction**
